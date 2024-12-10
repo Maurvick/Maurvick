@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on improving my programming skills.
 
-🌱 I’m currently learning JavaScript, TypeScript and Angular as well as other web frameworks. Also, trying to improve my back-end knowledge (mostly Node.js).
+🌱 I’m currently learning TypeScript (Angular or React), C# (ASP.NET Core).
 
 📫 How to reach me: ![Telegram](https://t.me/Maurvick)
 
